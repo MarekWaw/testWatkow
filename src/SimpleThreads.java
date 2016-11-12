@@ -29,7 +29,7 @@ public class SimpleThreads {
     }
 
     public static void main(String args[])
-        throws InterruptedException {
+        throws InterruptedException {  
 
         // Delay, in milliseconds before
         // we interrupt MessageLoop
